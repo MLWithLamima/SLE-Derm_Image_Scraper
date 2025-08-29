@@ -1,0 +1,5 @@
+﻿requests
+Pillow
+imagehash
+praw
+python-dotenv
